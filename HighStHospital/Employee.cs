@@ -62,9 +62,6 @@ namespace HighStHospital
             Console.WriteLine(employeeInfo);
         }
 
-        //public virtual void EmployeeStatus()
-        //{
-        //    string employeeStatus = ($"{employeeName}");
-        //}
+        
     }
 }

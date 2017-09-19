@@ -34,13 +34,6 @@ namespace HighStHospital
             }
         }
 
-    //    public override void EmployeeStatus()
-    //    {
-    //        if(isOperating ==true)
-    //        {
-    //            string operating = ($"{employeeName} is operating right now.\n");
-    //        }
-    //    }
-    //}
+
 }
 }

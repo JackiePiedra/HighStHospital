@@ -51,9 +51,9 @@ namespace HighStHospital
             Administrator Sil = new Administrator("Sil", 910, "Pediatrics");
             administrators.Add(AJ);
             administrators.Add(Sil);
-            foreach (Administrator name in administrators)
+            foreach (Administrator person in administrators)
             {
-                name.EmployeeList();
+                person.EmployeeList();
             }
 
             List<Receptionist> receptionists = new List<Receptionist>();
