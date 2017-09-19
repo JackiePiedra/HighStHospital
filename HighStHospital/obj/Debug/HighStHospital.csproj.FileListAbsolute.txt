@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\HighStHospital\HighStHospital\bin\Debug\HighStHospital.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HighStHospital\HighStHospital\obj\Debug\HighStHospital.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\HighStHospital\HighStHospital\bin\Debug\HighStHospital.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\HighStHospital\HighStHospital\bin\Debug\HighStHospital.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\HighStHospital\HighStHospital\obj\Debug\HighStHospital.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\HighStHospital\HighStHospital\obj\Debug\HighStHospital.pdb
